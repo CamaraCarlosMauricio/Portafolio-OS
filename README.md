@@ -16,4 +16,4 @@ Tarea #995
 
 Tarea #987
 
-![](Carlos_Camara_Tarea987.pdf)
+![]([Carlos_Camara_Tarea987.pdf](https://github.com/CamaraCarlosMauricio/Portafolio-OS/blob/fd77a7cef3b309f374140020360b961cb117612b/Carlos_Camara_Tarea987.pdf)https://github.com/CamaraCarlosMauricio/Portafolio-OS/blob/fd77a7cef3b309f374140020360b961cb117612b/Carlos_Camara_Tarea987.pdf)
