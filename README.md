@@ -13,3 +13,7 @@ Tarea #996
 Tarea #995
 
 ![](https://raw.githubusercontent.com/CamaraCarlosMauricio/Portafolio-OS/main/CarlosCamaraOSGIF.gif)
+
+Tarea #987
+
+![](https://github.com/CamaraCarlosMauricio/Portafolio-OS/blob/main/Carlos_Camara_Tarea987.pdf)
