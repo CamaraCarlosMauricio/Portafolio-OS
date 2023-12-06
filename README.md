@@ -11,7 +11,7 @@ Tarea #997
 
 Tarea #996
 
-![](https://asciinema.org/a/elB1nTxv4ikLgI6H8Ai36PCwW)
+[Video del menú Asciinema](https://asciinema.org/a/elB1nTxv4ikLgI6H8Ai36PCwW)
 
 Tarea #995
 
@@ -27,7 +27,7 @@ Tareea #993
 
 Tarea #992
 
-![](https://github.com/CamaraCarlosMauricio/Portafolio-OS/blob/1365430c9c8606ef0c008e8cc19e8c471cfbcd83/Carlos_Camara_Tarea992.jpg)
+![](camaracarlosmauricio.png)
 
 Tarea #991
 
